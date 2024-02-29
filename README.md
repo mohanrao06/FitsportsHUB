@@ -3,7 +3,7 @@ FitSportHub is your ultimate destination for fitness and sports enthusiasts. Whe
 problem number --> CBP25
 our idea was that to give best finess and sports educations for over all india 
 
-Start --> Home Page --> fitness or sports --> get in --> videos
+Start --> Home Page --> fitness or sports --> get in -->  selct what you like --> videos
 - Explore Articles/Workouts
 - Join Community Forums
 - Check Events Calendar
